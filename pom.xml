@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+	    <groupId>ch.rhj</groupId>
+	    <artifactId>rhj-parent</artifactId>
+	    <version>20200430</version>
+	</parent>
+	
+	<artifactId>rhj-chunk-db</artifactId>
+	<packaging>jar</packaging>
+	
+	<name>RHJ Chunk DB</name>
+	<description>RHJ Chunk DB</description>
+	
+</project>
